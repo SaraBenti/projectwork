@@ -93,5 +93,5 @@ if (!defined('ABSPATH')) {
 }
 
 /** Imposta le variabili di WordPress ed include i file. */
-define( 'WP_SITEURL', 'http://127.0.0.1/wordpress1/' );
+define( 'WP_SITEURL', 'http://127.0.0.1/projectwork/wordpress1/' );
 require_once ABSPATH . 'wp-settings.php';
