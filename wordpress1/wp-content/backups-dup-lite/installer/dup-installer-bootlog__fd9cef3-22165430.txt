@@ -1,0 +1,31 @@
+[Mar 29 12:12:02] 
+[Mar 29 12:12:02] [PHP ERR][ISSUE] MSG:Creation of dynamic property DUPX_Bootstrap::$extractionTmpFolder is deprecated [CODE:8192|FILE:C:\xampp\htdocs\wordpress1\installer.php|LINE:99]
+[Mar 29 12:12:02] ==DUPLICATOR INSTALLER BOOTSTRAP v1.5.3.1==
+[Mar 29 12:12:02] ----------------------------------------------------
+[Mar 29 12:12:02] Installer bootstrap start
+[Mar 29 12:12:02] Ready to extract the installer
+[Mar 29 12:12:02] Checking permission of destination folder
+[Mar 29 12:12:02] Expand directory from offset 38110471
+[Mar 29 12:12:10] No need to create dup-installer/.htaccess or dup-installer/.user.ini
+[Mar 29 12:12:10] SAPI: apache2handler
+[Mar 29 12:12:10] [PHP ERR][ISSUE] MSG:Creation of dynamic property DUPX_Bootstrap::$archive is deprecated [CODE:8192|FILE:C:\xampp\htdocs\wordpress1\installer.php|LINE:529]
+[Mar 29 12:12:10] [PHP ERR][ISSUE] MSG:Creation of dynamic property DUPX_Bootstrap::$bootloader is deprecated [CODE:8192|FILE:C:\xampp\htdocs\wordpress1\installer.php|LINE:530]
+[Mar 29 12:12:10] Set permissions of dup-installer<br/>
+[Mar 29 12:12:10] Set permissions of dup-installer/addons<br/>
+[Mar 29 12:12:10] Set permissions of dup-installer/assets<br/>
+[Mar 29 12:12:10] Set permissions of dup-installer/classes<br/>
+[Mar 29 12:12:10] Set permissions of dup-installer/ctrls<br/>
+[Mar 29 12:12:10] Set permissions of dup-installer/favicon<br/>
+[Mar 29 12:12:10] Set permissions of dup-installer/libs<br/>
+[Mar 29 12:12:10] Set permissions of dup-installer/original_files_[HASH]<br/>
+[Mar 29 12:12:10] Set permissions of dup-installer/src<br/>
+[Mar 29 12:12:10] Set permissions of dup-installer/templates<br/>
+[Mar 29 12:12:10] Set permissions of dup-installer/vendor<br/>
+[Mar 29 12:12:10] Set permissions of dup-installer/dup-archive__[HASH].txt<br/>
+[Mar 29 12:12:10] Set permissions of dup-installer/dup-scan__[HASH].json<br/>
+[Mar 29 12:12:10] Set permissions of dup-installer/dup-scanned-dirs__[HASH].txt<br/>
+[Mar 29 12:12:10] Set permissions of dup-installer/dup-scanned-files__[HASH].txt<br/>
+[Mar 29 12:12:10] Set permissions of dup-installer/index.php<br/>
+[Mar 29 12:12:10] Set permissions of dup-installer/main.installer.php<br/>
+[Mar 29 12:12:10] DONE: No detected errors so redirecting to the main installer. Main Installer URI = http://127.0.0.1/wordpress1/dup-installer/main.installer.php
+[Mar 29 12:12:10] [PHP ERR][ISSUE] MSG:Creation of dynamic property DUPX_Bootstrap::$extractionTmpFolder is deprecated [CODE:8192|FILE:C:\xampp\htdocs\wordpress1\installer.php|LINE:99]
