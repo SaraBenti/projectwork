@@ -17,3 +17,4 @@ add_filter('block_categories_all', function ($categories) {
 
 require __DIR__ . '/example-01-basic/index.php';
 require __DIR__ . '/example-02-stylesheets/index.php';
+require __DIR__ . '/example-06-jsx/index.php';

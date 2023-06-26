@@ -1,0 +1,19 @@
+{
+    "apiVersion": 3,
+    "title": "Blocco con JSX",
+    "name" : "imm-examples/example-06-jsx",
+    "description": "Lorem ipsum",
+    "category": "immaginificio",
+    "icon": "html",
+    "editorScript": "file:./build/index.js",
+    "supports": {
+        "align": true,
+        "spacing": {
+            "padding": true,
+            "margin": true
+        },
+        "color": true
+    }
+}
+
+
